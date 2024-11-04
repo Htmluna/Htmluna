@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Luana and I'm a Full Stack Developer and RPA Specialist from Brazil <br>🐈‍⬛ I study Software Analysis and Development at FIAP, and I'm currently in my third semester. <br>🦇 I'm seeking my first opportunity to work with Python, whether in RPA or Data Analysis.<br>🐈 More about me: </h2>
+<h2 align="left">Hi 👋! My name is Luana and I'm a Full Stack Developer from Brazil <br>🐈‍⬛ I study Software Analysis and Development at FIAP, and I'm currently in my third semester. <br>🦇 I'm seeking my first opportunity to work with Python, whether in RPA or Data Analysis.<br>🐈 More about me: </h2>
 
 ###
 
