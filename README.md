@@ -1,14 +1,5 @@
 <h2 align="left">Hi 👋! My name is Luana and I'm a Full Stack Developer from Brazil <br>🐈‍⬛ I study Software Analysis and Development at FIAP, and I'm currently in my third semester. <br>🦇 I'm seeking my first opportunity to work with Python, whether in RPA or Data Analysis.<br>🐈 More about me: </h2>
 
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=htmluna&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=panda&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=htmluna&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=panda&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
