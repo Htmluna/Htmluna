@@ -54,11 +54,17 @@
 
 <table border="0" align="center" cellpadding="0" cellspacing="0">
   <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=htmluna&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&icon_color=7B2CBF" height="165" />
+    <td valign="top">
+      <img src="https://github-readme-stats.vercel.app/api?username=htmluna&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&icon_color=BB86FC&title_color=BB86FC" height="185" />
     </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=htmluna&layout=compact&langs_count=5&theme=dark&hide_border=true&title_color=BB86FC&text_color=FFFFFF" height="180" />
+    <td valign="top">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=htmluna&layout=compact&langs_count=5&theme=dark&hide_border=true&title_color=BB86FC&text_color=FFFFFF" height="185" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <br>
+      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=htmluna&layout=compact&theme=dark&hide_border=true&title_color=BB86FC&text_color=FFFFFF&icon_color=BB86FC" width="100%" />
     </td>
   </tr>
 </table>
