@@ -33,15 +33,15 @@
 
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
   <tr>
-    <td align="center" width="33%" style="border-right: 1px solid #333; padding: 15px;">
+    <td align="center" width="33%" valign="top" style="border-right: 1px solid #333; padding: 10px;">
       <b>Frontend</b><br><br>
       <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,bootstrap,figma&theme=dark" />
     </td>
-    <td align="center" width="33%" style="border-right: 1px solid #333; padding: 15px;">
+    <td align="center" width="33%" valign="top" style="border-right: 1px solid #333; padding: 10px;">
       <b>Backend</b><br><br>
       <img src="https://skillicons.dev/icons?i=dotnet,nodejs,python,java&theme=dark" />
     </td>
-    <td align="center" width="33%" style="padding: 15px;">
+    <td align="center" width="33%" valign="top" style="padding: 10px;">
       <b>Database & Cloud</b><br><br>
       <img src="https://skillicons.dev/icons?i=mysql,mongodb,oracle,aws,azure,docker&theme=dark" />
     </td>
