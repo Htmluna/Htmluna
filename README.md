@@ -55,7 +55,7 @@
 <table border="0" align="center" cellpadding="0" cellspacing="0">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=htmluna&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&title_color=BB86FC&icon_color=BB86FC&text_color=FFFFFF" height="180" />
+      <img src="https://github-readme-stats.vercel.app/api?username=htmluna&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&icon_color=7B2CBF" height="165" />
     </td>
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=htmluna&layout=compact&langs_count=5&theme=dark&hide_border=true&title_color=BB86FC&text_color=FFFFFF" height="180" />
