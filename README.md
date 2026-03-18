@@ -62,5 +62,5 @@
 <br />
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/htmluna/count.svg" />
+  <img src="https://komarev.com/ghpvc/?username=htmluna&color=7B2CBF&style=flat-square&label=PROFILE+VIEWS" />
 </div>
