@@ -52,15 +52,21 @@
 
 ### 📊 Performance Insights
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=htmluna&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true&title_color=BB86FC&icon_color=BB86FC" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=htmluna&layout=compact&langs_count=5&theme=dracula&hide_border=true&title_color=BB86FC" height="165" />
-</div>
+<table border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=htmluna&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&title_color=BB86FC&icon_color=BB86FC&text_color=FFFFFF" height="180" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=htmluna&layout=compact&langs_count=5&theme=dark&hide_border=true&title_color=BB86FC&text_color=FFFFFF" height="180" />
+    </td>
+  </tr>
+</table>
 
 <br>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/htmluna/htmluna/output/snake.svg" alt="Snake animation" width="85%" />
+  <img src="https://raw.githubusercontent.com/htmluna/htmluna/output/snake.svg" alt="Snake animation" width="80%" />
 </div>
 
 <br><hr><br>
