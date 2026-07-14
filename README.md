@@ -5,9 +5,9 @@
 <br>
 
 <div align="center">
-  <h3> Olá, eu sou a Luana! 👋 </h3>
-  <p> Desenvolvedora Full Stack em constante evolução, focada em .NET, React e SQL Server. <br> 
-  🎓 Formada em Análise e Desenvolvimento de Sistemas pela <b>FIAP</b>. </p>
+  <h3>Olá, eu sou a Luana! 👋</h3>
+  <p>Desenvolvedora Full Stack focada em .NET, React e SQL Server.<br>
+  🎓 Formada em Análise e Desenvolvimento de Sistemas pela <b>FIAP</b>.</p>
 </div>
 
 <br>
@@ -29,42 +29,36 @@
 
 <br><hr><br>
 
-### 🛠️ Core Technology Stack
+### 🛠️ Stack
 
-<table border="0" cellpadding="0" cellspacing="0" width="100%">
-  <tr>
-    <td align="center" width="33%" valign="top" style="border-right: 1px solid #333; padding: 10px;">
-      <b>Frontend</b><br><br>
-      <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,bootstrap,figma&theme=dark" />
-    </td>
-    <td align="center" width="33%" valign="top" style="border-right: 1px solid #333; padding: 10px;">
-      <b>Backend</b><br><br>
-      <img src="https://skillicons.dev/icons?i=dotnet,nodejs,python,java&theme=dark" />
-    </td>
-    <td align="center" width="33%" valign="top" style="padding: 10px;">
-      <b>Database & Cloud</b><br><br>
-      <img src="https://skillicons.dev/icons?i=mysql,mongodb,oracle,aws,azure,docker&theme=dark" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <b>Frontend</b><br>
+  <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,bootstrap,figma&theme=dark" /><br><br>
+  <b>Backend</b><br>
+  <img src="https://skillicons.dev/icons?i=dotnet,nodejs,python,java&theme=dark" /><br><br>
+  <b>Database & Cloud</b><br>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,oracle,aws,azure,docker&theme=dark" />
+</div>
 
 <br><hr><br>
 
-### 📊 Performance Insights
+### 🚀 Projetos em destaque
 
-<table border="0" align="center" cellpadding="0" cellspacing="0">
+- **[Nome do Projeto 1](https://github.com/htmluna/repo1)** — descrição curta de uma linha do problema que resolve.
+- **[Nome do Projeto 2](https://github.com/htmluna/repo2)** — descrição curta de uma linha do problema que resolve.
+- **[Nome do Projeto 3](https://github.com/htmluna/repo3)** — descrição curta de uma linha do problema que resolve.
+
+<br><hr><br>
+
+### 📊 GitHub Stats
+
+<table border="0" align="center">
   <tr>
     <td valign="top">
       <img src="https://github-readme-stats.vercel.app/api?username=htmluna&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&icon_color=BB86FC&title_color=BB86FC" height="185" />
     </td>
     <td valign="top">
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=htmluna&layout=compact&langs_count=5&theme=dark&hide_border=true&title_color=BB86FC&text_color=FFFFFF" height="185" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <br>
-      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=htmluna&layout=compact&theme=dark&hide_border=true&title_color=BB86FC&text_color=FFFFFF&icon_color=BB86FC" width="100%" />
     </td>
   </tr>
 </table>
