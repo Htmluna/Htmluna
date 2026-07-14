@@ -52,16 +52,12 @@
 
 ### 📊 GitHub Stats
 
-<table border="0" align="center">
-  <tr>
-    <td valign="top">
-      <img src="https://github-readme-stats.vercel.app/api?username=htmluna&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&icon_color=BB86FC&title_color=BB86FC" height="185" />
-    </td>
-    <td valign="top">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=htmluna&layout=compact&langs_count=5&theme=dark&hide_border=true&title_color=BB86FC&text_color=FFFFFF" height="185" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/htmluna/htmluna/output/profile-summary-cards/htmluna/classic/0-profile-details.svg" width="100%" />
+  <img src="https://raw.githubusercontent.com/htmluna/htmluna/output/profile-summary-cards/htmluna/classic/1-repos-per-language.svg" width="49%" />
+  <img src="https://raw.githubusercontent.com/htmluna/htmluna/output/profile-summary-cards/htmluna/classic/2-most-commit-language.svg" width="49%" />
+  <img src="https://raw.githubusercontent.com/htmluna/htmluna/output/profile-summary-cards/htmluna/classic/3-stats.svg" width="100%" />
+</div>
 
 <br>
 
