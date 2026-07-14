@@ -29,28 +29,28 @@
 
 <br><hr><br>
 
-### 🛠️ Stack
+### 💀 Red Team Stack
 
 <div align="center">
-  <b>Frontend</b><br>
-  <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,bootstrap,figma&theme=dark" /><br><br>
-  <b>Backend</b><br>
-  <img src="https://skillicons.dev/icons?i=dotnet,nodejs,python,java&theme=dark" /><br><br>
-  <b>Database & Cloud</b><br>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,oracle,aws,azure,docker&theme=dark" />
+  <b>Offensive Security & Pentesting</b><br>
+  <img src="https://skillicons.dev/icons?i=kali,wireshark,linux,bash,powershell&theme=dark" /><br><br>
+  <b>Exploit Dev & Scripting</b><br>
+  <img src="https://skillicons.dev/icons?i=python,go,c,js,nodejs&theme=dark" /><br><br>
+  <b>Database & Infrastructure</b><br>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,aws,docker&theme=dark" />
 </div>
 
 <br><hr><br>
 
-### 🚀 Projetos em destaque
+### 🚀 Tools & Exploits em destaque
 
-- **[Nome do Projeto 1](https://github.com/htmluna/repo1)** — descrição curta de uma linha do problema que resolve.
-- **[Nome do Projeto 2](https://github.com/htmluna/repo2)** — descrição curta de uma linha do problema que resolve.
-- **[Nome do Projeto 3](https://github.com/htmluna/repo3)** — descrição curta de uma linha do problema que resolve.
+- **[Nome da Ferramenta 1](https://github.com/htmluna/repo1)** — Descrição curta de um script de automação de recon, exploit ou ferramenta de enumeração.
+- **[Nome da Ferramenta 2](https://github.com/htmluna/repo2)** — Descrição curta do laboratório, write-up de CTF ou ferramenta ofensiva.
+- **[Nome da Ferramenta 3](https://github.com/htmluna/repo3)** — Descrição curta do seu projeto de segurança.
 
 <br><hr><br>
 
-### 📊 GitHub Stats
+### 📊 Hacking Stats
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/htmluna/htmluna/output/profile-summary-card-output/github_dark/0-profile-details.svg" width="100%" />
@@ -68,5 +68,5 @@
 <br><hr><br>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=htmluna&color=BB86FC&style=flat-square&label=PROFILE+VIEWS" />
+  <img src="https://komarev.com/ghpvc/?username=htmluna&color=9C27B0&style=flat-square&label=TARGET+RECON+VIEWS" />
 </div>
