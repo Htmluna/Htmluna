@@ -33,7 +33,7 @@
 
 <div align="center">
   <b>Offensive Security & Pentesting</b><br>
-  <img src="https://skillicons.dev/icons?i=kali,wireshark,linux,bash,powershell&theme=dark" /><br><br>
+  <img src="https://skillicons.dev/icons?i=kali,linux,bash,powershell&theme=dark" />
   <b>Exploit Dev & Scripting</b><br>
   <img src="https://skillicons.dev/icons?i=python,go,c,js,nodejs&theme=dark" /><br><br>
   <b>Database & Infrastructure</b><br>
