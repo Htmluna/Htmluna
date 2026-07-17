@@ -7,7 +7,8 @@
 <div align="center">
   <h3>Olá, eu sou a Luana! 👋</h3>
   <p>Focada em Segurança Ofensiva, Pentesting e Segurança de Aplicações (AppSec).<br>
-  🎓 Formada em Análise e Desenvolvimento de Sistemas pela <b>FIAP</b>.</p>
+  🎓 Formada em Análise e Desenvolvimento de Sistemas pela <b>FIAP</b>.<br>
+  🎓 Cursando Pós Tech em Offensive Cyber Security pela <b>FIAP</b></p>
 </div>
 
 <br>
@@ -33,31 +34,12 @@
 
 <div align="center">
   <b>Offensive Security & Pentesting</b><br>
-  <img src="https://skillicons.dev/icons?i=kali,linux,bash,powershell&theme=dark" /><br><br>
+  <img src="https://skillicons.dev/icons?i=kali,linux,bash,powershell&theme=dark" /><br>
   <b>Exploit Dev & Scripting</b><br>
-  <img src="https://skillicons.dev/icons?i=python,go,c,js,nodejs&theme=dark" /><br><br>
+  <img src="https://skillicons.dev/icons?i=python,go,c,js,nodejs&theme=dark" /><br>
   <b>Database & Infrastructure</b><br>
   <img src="https://skillicons.dev/icons?i=mysql,mongodb,aws,docker&theme=dark" />
 </div>
 
-<br><hr><br>
-
-### 🚀 Tools & Exploits em destaque
-
-- **[Nome da Ferramenta 1](https://github.com/htmluna/repo1)** — Descrição curta de um script de automação de recon, exploit ou ferramenta de enumeração.
-- **[Nome da Ferramenta 2](https://github.com/htmluna/repo2)** — Descrição curta do laboratório, write-up de CTF ou ferramenta ofensiva.
-- **[Nome da Ferramenta 3](https://github.com/htmluna/repo3)** — Descrição curta do seu projeto de segurança.
-
-<br><hr><br>
-
 <br>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/htmluna/htmluna/output/snake.svg" alt="Snake animation" width="80%" />
-</div>
-
-<br><hr><br>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=htmluna&color=9C27B0&style=flat-square&label=TARGET+RECON+VIEWS" />
-</div>
