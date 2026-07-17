@@ -2,8 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=1A1A1A&height=180&section=header&text=Luana%20Victória&fontSize=65&fontColor=9C27B0&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20%7C%20Red%20Team%20Operator&descColor=FFFFFF&descAlignY=62&descFontSize=20" width="100%"/>
 </div>
 
-<br>
-
 <div align="center">
   <h3>Olá, eu sou a Luana! 👋</h3>
   <p>Focada em Segurança Ofensiva, Pentesting e Segurança de Aplicações (AppSec).<br>
