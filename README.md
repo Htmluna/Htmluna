@@ -12,7 +12,7 @@
 <br>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/luana-v">
+  <a href="[https://www.linkedin.com/in/luana-v](https://www.linkedin.com/in/luana-v-boeving/)">
     <img src="https://img.shields.io/badge/LinkedIn-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=1A1A1A" />
   </a>
   <a href="mailto:luanavboeving@gmail.com">
