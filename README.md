@@ -3,10 +3,10 @@
 </div>
 
 <div align="center">
-  <h3>Olá, eu sou a Luana! 👋</h3>
-  <p>Focada em Segurança Ofensiva, Pentesting e Segurança de Aplicações (AppSec).<br>
-  🎓 Formada em Análise e Desenvolvimento de Sistemas pela <b>FIAP</b>.<br>
-  🎓 Cursando Pós Tech em Offensive Cyber Security pela <b>FIAP</b></p>
+  <h3>Hi, I'm Luana! 👋</h3>
+  <p>Focused on Offensive Security, Pentesting, and Application Security (AppSec).<br>
+  🎓 Bachelor's Degree in Systems Analysis and Development from <b>FIAP</b>.<br>
+  🎓 Currently pursuing a Post-Graduation in Offensive Cyber Security at <b>FIAP</b></p>
 </div>
 
 <br>
@@ -38,6 +38,3 @@
   <b>Database & Infrastructure</b><br>
   <img src="https://skillicons.dev/icons?i=mysql,mongodb,aws,docker&theme=dark" />
 </div>
-
-<br>
-
