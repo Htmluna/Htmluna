@@ -1,12 +1,17 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=1A1A1A&height=180&section=header&text=Luana%20Victória&fontSize=65&fontColor=9C27B0&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20%7C%20Red%20Team%20Operator&descColor=FFFFFF&descAlignY=62&descFontSize=20" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1A1A1A&height=180&section=header&text=Luana%20Victória&fontSize=65&fontColor=9C27B0&animation=fadeIn&desc=Full-Stack%20Software%20Developer&descSize=22&descAlignY=75" width="100%"/>
 </div>
 
 <div align="center">
   <h3>Hi, I'm Luana! 👋</h3>
-  <p>Focused on Offensive Security, Pentesting, and Application Security (AppSec).<br>
-  🎓 Bachelor's Degree in Systems Analysis and Development from <b>FIAP</b>.<br>
-  🎓 Currently pursuing a Post-Graduation in Offensive Cyber Security at <b>FIAP</b></p>
+  <p>
+    <code>Full-Stack Developer</code> • <code>Back-End & APIs</code> • <code>Modern Web Apps</code>
+  </p>
+  <p>
+    🎓 Systems Analysis and Development Graduate — <b>FIAP</b><br>
+    🛠️ Building end-to-end solutions with <b>C# / .NET</b>, <b>React</b>, <b>Next.js</b>, <b>TypeScript</b> & <b>SQL</b>.<br>
+    ✨ Passionate about clean architecture, UI/UX details, and high-performance web systems.
+  </p>
 </div>
 
 <br>
@@ -28,13 +33,13 @@
 
 <br><hr><br>
 
-### 💀 Red Team Stack
+### 💻 Tech Stack
 
 <div align="center">
-  <b>Offensive Security & Pentesting</b><br>
-  <img src="https://skillicons.dev/icons?i=kali,linux,bash,powershell&theme=dark" /><br>
-  <b>Exploit Dev & Scripting</b><br>
-  <img src="https://skillicons.dev/icons?i=python,go,c,js,nodejs&theme=dark" /><br>
-  <b>Database & Infrastructure</b><br>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,aws,docker&theme=dark" />
+  <b>Front-End & UI</b><br>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,bootstrap&theme=dark" /><br>
+  <b>Back-End & APIs</b><br>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,python&theme=dark" /><br>
+  <b>Database, Cloud & Tools</b><br>
+  <img src="https://skillicons.dev/icons?i=supabase,postgres,mysql,docker,aws,git,linux,powershell&theme=dark" />
 </div>
